@@ -1,7 +1,7 @@
 # first-repo-12-2023
 It will 
-- sove list
-- anoyher item
+- love list
+- another item
 ## second level 
 
 ### third level
